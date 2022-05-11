@@ -83,7 +83,11 @@ Run this commands in cmd or powershell
 3. preinstall source
 
 4. and done
+                                      THEARCH ENGINE CREDITS:
+				      
+WtireXoo ("Engine Coder")
 
+Frosty ("Others + tester..") 				      
 
 				
 				
