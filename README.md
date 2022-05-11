@@ -88,9 +88,6 @@ Run this commands in cmd or powershell
 WtireXoo ("Engine Coder")
 
 Frosty ("Others + tester..") 				      
-
-				
-	![logoBumpin](https://user-images.githubusercontent.com/100351891/167912524-68ad253e-ff92-4369-b8b0-aa65c0aa555e.png)
 	
 also there is no changes to logo	
 			
