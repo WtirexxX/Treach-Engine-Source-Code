@@ -1,4 +1,4 @@
-# Friday Night Funkin Thearch Engine
+# Friday Night Funkin Thearch Engine // how to compile
 
 IF YOU MAKE A MOD AND DISTRIBUTE A MODIFIED / RECOMPILED VERSION, YOU MUST OPEN SOURCE YOUR MOD AS WELL
 
