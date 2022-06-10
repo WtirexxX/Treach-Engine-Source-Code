@@ -1,6 +1,6 @@
-                                            ### Thearch Engine Problems!
+                                            ## Thearch Engine Problems!
  ----------------------------------------------------------------------------------------------------------------------------------------------------------
-                                ### If Treach Dont WORK!!!
+                                
 				
 Run this commands in cmd or powershell
 
